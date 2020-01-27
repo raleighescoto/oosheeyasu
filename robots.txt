@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifahnuapo.snowcloud.ski/sitemap.xml
